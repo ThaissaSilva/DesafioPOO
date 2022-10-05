@@ -1,0 +1,15 @@
+/Users/thaissasena/Desktop/DesafioPOO/bin/Debug/net6.0/POOTelemoveis
+/Users/thaissasena/Desktop/DesafioPOO/bin/Debug/net6.0/POOTelemoveis.deps.json
+/Users/thaissasena/Desktop/DesafioPOO/bin/Debug/net6.0/POOTelemoveis.runtimeconfig.json
+/Users/thaissasena/Desktop/DesafioPOO/bin/Debug/net6.0/POOTelemoveis.dll
+/Users/thaissasena/Desktop/DesafioPOO/bin/Debug/net6.0/POOTelemoveis.pdb
+/Users/thaissasena/Desktop/DesafioPOO/obj/Debug/net6.0/POOTelemoveis.csproj.AssemblyReference.cache
+/Users/thaissasena/Desktop/DesafioPOO/obj/Debug/net6.0/POOTelemoveis.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thaissasena/Desktop/DesafioPOO/obj/Debug/net6.0/POOTelemoveis.AssemblyInfoInputs.cache
+/Users/thaissasena/Desktop/DesafioPOO/obj/Debug/net6.0/POOTelemoveis.AssemblyInfo.cs
+/Users/thaissasena/Desktop/DesafioPOO/obj/Debug/net6.0/POOTelemoveis.csproj.CoreCompileInputs.cache
+/Users/thaissasena/Desktop/DesafioPOO/obj/Debug/net6.0/POOTelemoveis.dll
+/Users/thaissasena/Desktop/DesafioPOO/obj/Debug/net6.0/refint/POOTelemoveis.dll
+/Users/thaissasena/Desktop/DesafioPOO/obj/Debug/net6.0/POOTelemoveis.pdb
+/Users/thaissasena/Desktop/DesafioPOO/obj/Debug/net6.0/POOTelemoveis.genruntimeconfig.cache
+/Users/thaissasena/Desktop/DesafioPOO/obj/Debug/net6.0/ref/POOTelemoveis.dll
